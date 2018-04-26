@@ -1,3 +1,10 @@
+/*  This sketch was created to test a class being used to calculate angles from an MPU_6050 using the I2C protocol
+ *  
+ *  
+ *  Created by: Chris Bobotsis
+ */
+
+
 #include<Wire.h>
 
 

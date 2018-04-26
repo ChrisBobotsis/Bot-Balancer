@@ -1,4 +1,9 @@
-
+/* This sketch is used to test an algorithm for an infrared interrupt service routine
+ * 
+ * 
+ * Created by: Chris Bobotsis
+ * 
+ */
 uint32_t user_input = 0x0000;   // This will be used to store the value of the user input (based on NEC data)
 
 uint8_t IR_pin = 2;
